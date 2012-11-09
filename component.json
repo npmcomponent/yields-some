@@ -1,0 +1,12 @@
+{
+  "name": "some",
+  "repo": "yields/some",
+  "description": "es5 some",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}
