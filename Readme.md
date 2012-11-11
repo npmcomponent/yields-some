@@ -1,7 +1,7 @@
 
 # some
 
-  es5 some
+  Array some utility.
 
 ## Installation
 
@@ -9,10 +9,10 @@
 
 ## API
 
-### every(arr, fn)
+### some(arr, fn)
 
 ```javascript
-every([1, 'str', 3], function (el, i) {
+some([1, 'str', 3], function (el, i) {
   return 'string' == typeof el;
 });
 // > true
