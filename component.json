@@ -1,9 +1,9 @@
 {
   "name": "some",
   "repo": "yields/some",
-  "description": "es5 some",
+  "description": "Array some utility",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": ["some", "array"],
   "dependencies": {},
   "development": {},
   "scripts": [
