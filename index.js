@@ -6,7 +6,7 @@
 var some = [].some;
 
 /**
- * test wether some elements in
+ * test whether some elements in
  * the array pass the test implemented
  * by `fn`.
  *

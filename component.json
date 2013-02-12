@@ -2,7 +2,7 @@
   "name": "some",
   "repo": "yields/some",
   "description": "Array some utility",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": ["some", "array"],
   "dependencies": {},
   "development": {},
